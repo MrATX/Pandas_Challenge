@@ -39,6 +39,7 @@
 
   .jumbotron{
     margin:25px;
+    background-color:white;
   }
 
   #analysispara{
@@ -47,5 +48,5 @@
   }
 
 .container-fluid{
-
+  background-color:lightgray;
 }
